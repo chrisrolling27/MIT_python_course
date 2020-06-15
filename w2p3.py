@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 MITx: 6.00.1x
-Problem 1 - Paying Debt off in a Year 
+Problem 3 - Using Bisection Search to Make the Program Faster 
 
 @author: Chris.Rolling
 """
