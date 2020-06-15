@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 MITx: 6.00.1x
-Problem 1 - Paying Debt off in a Year 
+Problem 2 - Paying Debt Off in a Year 
 
 @author: Chris.Rolling
 """
